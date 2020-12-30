@@ -14,3 +14,6 @@ def index():
     return "Hello World"
 
 
+def login():
+    return "登录成功"
+
