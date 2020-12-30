@@ -1,6 +1,6 @@
 
-from web import app
+# from web import app
+#
+# app.run()
 
-app.run()
-
-
+print("dhashi")
